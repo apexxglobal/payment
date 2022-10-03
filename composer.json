@@ -12,7 +12,7 @@
         "apexxpayment/googlepay": "1.0.6",
         "apexxpayment/hostedpayment": "1.0.6",
         "apexxpayment/paypalpayment": "1.0.6",
-        "apexxpayment/bnpl": "1.0.0",
+        "apexxpayment/bnpl": "1.0.0"
         },
     "license": [
         "OSL-3.0",
